@@ -1,0 +1,4 @@
+## 项目虚拟路径
+server.servlet.context-path: /05security_sb
+## 使thymeleaf缓存失效
+spring.thymeleaf.cache: false
